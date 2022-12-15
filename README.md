@@ -4,10 +4,9 @@ JavaScript. Next I am planning to do a course on Full Stack Development and then
 April 2023. Keep your fingers crossed for me.
 
 - 👀 I’m interested in finding ways for children to learn effortlessly (especially for subjects they don't like at school). I have a son who 
-is my guinea pig whether he likes it or not...
+is my test pupil whether he likes it or not...
 
-- 🌱 I’m currently learning Form Validation, which I find easy and ES6 features of JavaScript, which I find REALLY hard. But I am always up 
-for a good challenge.
+- 🌱 I’m currently learning JavaScript Prototypes and Regular Expressions.
 
 - 💞️ I’m looking to collaborate in the future on Web and App Development.
 
