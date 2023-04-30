@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @birgit2704. I discovered just recently how much I enjoy coding. This encouraged me to seek a career change after working for 
 many years in administrative jobs. I started my journey with a specialization in Web Design and JavaScript. Currently, I am doing the META Front-End Developer specialization. Once I have obtained that, I will start to look for a job as a Frontend Developer. Planning is 
-April 2023. Keep your fingers crossed for me.
+May 2023. Keep your fingers crossed for me.
 
 - 👀 I’m interested in finding ways for children to learn effortlessly (especially for subjects they don't like at school). I have a son who 
 is my test pupil whether he likes it or not...
