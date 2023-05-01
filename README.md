@@ -5,7 +5,7 @@ May 2023. Keep your fingers crossed for me.
 - 👀 I’m interested in finding ways for children to learn effortlessly (especially for subjects they don't like at school). I have a son who 
 is my test pupil whether he likes it or not...
 
-- 🌱 I’m currently learning to use Git and GitHub.
+- 🌱 I’m currently learning advanced React topics.
 
 - 💞️ I’m looking to collaborate in the future on Web and App Development.
 
