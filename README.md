@@ -11,6 +11,12 @@ is my test pupil whether he likes it or not...
 
 - 📫 How to reach me: birgit.bartenschlager@web.de
 
+- I work daily with:
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=git)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=typescript)](https://github.com/harish-sethuraman/readme-components)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react)](https://github.com/harish-sethuraman/readme-components)
+
 <!---
 birgit2704/birgit2704 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
