@@ -13,21 +13,22 @@ is my test pupil whether he likes it or not...
 
 - I work daily with:
 <p align="left">  
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
- </a>
-   <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
-</a>
-  <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=2d79c7">
-</a>
-  <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=2d79c7">
-</a>
-  <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=figma&svgfill=2d79c7">
-</a>
+
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=gray&logo=react&animation=spin&svgfill=blue">  
+ 
+  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=gray&logo=typescript&svgfill=blue">
+
+ 
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=gray&logo=javascript&svgfill=blue">
+
+
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=gray&logo=git&svgfill=blue">
+
+
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=gray&logo=figma&svgfill=blue">
+
+ <br/>
 and of course: HTML, CSS, Vite, Webpack
 
 
