@@ -1,35 +1,28 @@
-- 👋 Hi, I’m @birgit2704. I discovered just recently how much I enjoy coding. This encouraged me to seek a career change after working for 
-many years in administrative jobs. I started my journey with a specialization in Web Design and JavaScript. Currently, I am doing the META Front-End Developer specialization. Once I have obtained that, I will start to look for a job as a Frontend Developer. Planning is 
-May 2023. Keep your fingers crossed for me.
+- 👋 Hi, I’m @birgit2704. Last summer I decided to turn my passion into my profession and started to study front-end development full-time. I began my journey with a specialization in Web Design and JavaScript. I am now finishing the META Front-End Developer specialization. I am now open for job opportunities as a (junior) front-end developer.
 
-- 👀 I’m interested in finding ways for children to learn effortlessly (especially for subjects they don't like at school). I have a son who 
-is my test pupil whether he likes it or not...
+- 👀 Besides coding, my interest lies in finding ways for children to learn effortlessly (especially for subjects they don't like at school). I have a 12-year-old whom I test my strategies on.
 
-- 🌱 I’m currently learning advanced React topics.
+- 🌱 I’m currently learning advanced React topics. Next, I will dive into SASS.
 
-- 💞️ I’m looking to collaborate in the future on Web and App Development.
+- 💞️ I’m looking to collaborate on Web and App Development.
 
 - 📫 How to reach me: birgit.bartenschlager@web.de
 
-- I work daily with:
+- I work with:
 <p align="left">  
-
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=gray&logo=react&animation=spin&svgfill=blue">  
- 
-  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=gray&logo=react&animation=spin&svgfill=blue">  
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=gray&logo=typescript&svgfill=blue">
-
- 
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=gray&logo=javascript&svgfill=blue">
-
-
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=gray&logo=git&svgfill=blue">
-
-
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=gray&logo=figma&svgfill=blue">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=gray&logo=git&svgfill=blue"> 
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=gray&logo=CSS3&svgfill=blue"> 
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=gray&logo=html5&svgfill=f06629">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=gray&logo=bootstrap&svgfill=f06629">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=gray&logo=jquery&svgfill=f06629">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=gray&size=small&logo=figma&svgfill=blue">
 
  <br/>
-and of course: HTML, CSS, Vite, Webpack
+ <br/>
+ <sub># Made using components from (https://github.com/harish-sethuraman/readme-components)</sub>
 
 
 
