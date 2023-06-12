@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @birgit2704. Last summer I decided to turn my passion into my profession and started to study front-end development full-time. I began my journey with a specialization in Web Design and JavaScript. I am now finishing the META Front-End Developer specialization. I am now open for job opportunities as a (junior) front-end developer.
+- 👋 Hi, I’m @birgit2704. Last summer I decided to turn my passion into my profession and started to study front-end development full-time. I began my journey with specializations in Web Design and JavaScript. Then I passed the META Front-End Developer specialization. I am now open for job opportunities as a (junior) front-end developer.
 
 - 👀 Besides coding, my interest lies in finding ways for children to learn effortlessly (especially for subjects they don't like at school). I have a 12-year-old whom I test my strategies on.
 
-- 🌱 I’m currently learning advanced React topics. Next, I will dive into SASS.
+- 🌱 I’m currently learning Typescript. Next, I will dive into SASS.
 
 - 💞️ I’m looking to collaborate on Web and App Development.
 
