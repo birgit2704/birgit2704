@@ -32,8 +32,7 @@
 ### Badges
 
 <h4>My GitHub Stats</h4>
-<a href="http://www.github.com/birgit2704"><img src="https://github-readme-stats.vercel.app/api?username=birgit2704&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27&hide_border=true" alt="birgit2704's GitHub stats" /></a>
-<a href="http://www.github.com/birgit2704"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birgit2704&langs_count=3&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27&hide_border=true" alt="Top Languages"/></a>
+
 <a href="http://www.github.com/birgit2704"><img src="https://github-readme-streak-stats.herokuapp.com/?user=birgit2704&stroke=70a5fd&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakNum=bf91f3&currStreakLabel=bf91f3&sideNums=70a5fd&sideLabels=70a5fd&dates=38bdae&hide_border=true" alt="Github streak stats"/></a>
 <a href="http://www.github.com/birgit2704"><img src="https://github-readme-activity-graph.vercel.app/graph?username=birgit2704&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=70a5fd&area_color=1a1b27&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
