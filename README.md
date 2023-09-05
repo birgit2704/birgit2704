@@ -1,6 +1,6 @@
 # Hi 👋 I am Birgit
 ## Front-End Developer
-"Life without challenges is a stagnant existence." <br><br> In June 2022 I decided to turn my passion into my profession and started to study front-end development full-time. I began my journey with specializations in Web Design and JavaScript. Then I passed the META Front-End Developer specialization. I am now open for job opportunities as a front-end developer.
+"Life without challenges is a stagnant existence." <br><br> In June 2022 I decided to turn my passion into my profession and started to study front-end development full-time. I began my journey with specializations in Web Design and JavaScript. Then I passed the META Front-End Developer specialization. I will start my first job as front-end developer on October 2nd. 😀
 
 * 🌍  I'm based in Germany
 * ✉️  You can reach me at [birgit.bartenschlager@web.de](mailto:birgit.bartenschlager@web.de)
