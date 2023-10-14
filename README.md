@@ -4,7 +4,7 @@
 
 * 🌍  I'm based in Germany
 * ✉️  You can reach me at [birgit.bartenschlager@web.de](mailto:birgit.bartenschlager@web.de)
-* 🧠  I'm currently learning to build my own CSS library
+* 🧠  I'm currently building my own CSS library
 * 🤝  I'm open to collaborating on fun web apps
 * ⚡ Fun fact: I am interested in finding ways for children to learn effortlessly (especially for subjects they hate at school). 
 
