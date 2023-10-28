@@ -6,7 +6,7 @@
 * ✉️  You can reach me at [birgit.bartenschlager@web.de](mailto:birgit.bartenschlager@web.de)
 * 🧠  I'm currently building projects with Next.js
 * 🤝  I'm open to collaborating on fun web apps
-* ⚡ Fun fact: I am interested in finding ways for children to learn effortlessly (especially for subjects they hate at school). 
+* ⚡ Fun fact: I am doing a speed-reading course to double my words per minute within one month. 
 
 [![Github Follow](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/birgit2704)
 [![Linkedin Follow](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/birgit-bartenschlager/)
