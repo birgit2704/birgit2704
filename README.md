@@ -4,7 +4,7 @@
 
 * 🌍  I'm based in Germany
 * ✉️  You can reach me at [birgit.bartenschlager@web.de](mailto:birgit.bartenschlager@web.de)
-* 🧠  I'm currently building projects with Next.js
+* 🧠  I'm currently learning Python
 * 🤝  I'm open to collaborating on fun web apps
 * ⚡ Fun fact: I am doing a speed-reading course to double my words per minute within one month. 
 
