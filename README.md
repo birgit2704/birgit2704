@@ -1,13 +1,12 @@
 # Hi 👋 I am Birgit
-## Front-End Developer
-"Life without challenges is a stagnant existence." <br><br> I develop apps and websites with React and Next.js 😀
+## Aspiring AI Engineer and Machine Learning Expert
+"Simplicity is the ultimate sophistication." <br><br> 
 
 * 🌍  I'm based in Germany
 * ✉️  You can reach me at [birgit.bartenschlager@web.de](mailto:birgit.bartenschlager@web.de)
-* 🤖  I'm currently learning AI Engineering to implement AI in my apps
-* 🤝  I'm open to collaborating on fun web apps
-* ⚡ Fun fact: I am doing a speed-reading course to double my words per minute within one month. 
-
+* 🤖  I'm currently learning AI Engineering and Machine Learning
+* 🤝  I'm open to collaborating on Machine Learning projects
+  
 [![Github Follow](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/birgit2704)
 [![Linkedin Follow](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/birgit-bartenschlager/)
 
