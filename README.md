@@ -14,6 +14,20 @@
 <h3 align="left">Skills:</h3>
 <p align="left">
 
+
+<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/fastapi/fastapi-original-wordmark.svg" width="50" height="50" alt="FastApi" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50" alt="Jupyter" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/kaggle/kaggle-original-wordmark.svg" width="50" height="50" alt="Kaggle" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/kotlin/kotlin-original.svg" width="38" height="38" alt="Kotlin" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/matplotlib/matplotlib-original-wordmark.svg" width="50" height="50" alt="Matplotlib" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mysql/mysql-original-wordmark.svg" width="80" height="80" alt="MySql" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/numpy/numpy-original.svg" width="36" height="36" alt="Numpy" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/pandas/pandas-original-wordmark.svg" width="50" height="50" alt="Pandas" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50" alt="Postgres" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original-wordmark.svg" width="50" height="50" alt="Python" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="ScikitLearn" /></a>
+
+
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="36" height="36" alt="DART" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="36" height="36" alt="FLUTTER" /></a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="NEXT" /></a>
@@ -28,9 +42,9 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" height="36" alt="FIGMA" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="GIT" /></a>
 <a href="https://docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="DOCKER" /></a>
+<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postman/postman-original.svg" width="36" height="36" alt="Postman" /></a>  
 
-</p>
-
+<br>
 
 ### Badges
 
