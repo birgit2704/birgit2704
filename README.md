@@ -1,10 +1,10 @@
 # Hi 👋 I am Birgit
-## Aspiring AI Engineer and Machine Learning Expert
+## Data Analyst and aspiring Machine Learning Expert
 "Simplicity is the ultimate sophistication." <br><br> 
 
 * 🌍  I'm based in Germany
 * ✉️  You can reach me at [birgit.bartenschlager@web.de](mailto:birgit.bartenschlager@web.de)
-* 🤖  I'm currently learning AI Engineering and Machine Learning
+* 🤖  I'm currently learning all about Supevised and Unsupervised Machine Learning
 * 🤝  I'm open to collaborating on Machine Learning projects
   
 [![Github Follow](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/birgit2704)
