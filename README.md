@@ -1,10 +1,10 @@
 # Hi 👋 I am Birgit
 ## Data Analyst and aspiring Machine Learning Expert
 "Simplicity is the ultimate sophistication." <br><br> 
+I am a software engineer and data professional who thrives where systems break and data gets messy. My career began in enterprise operations, giving me a deep understanding of organizational business logic, which I now supercharge with rigorous software architecture and mathematical modeling. I am the person who doesn't give up; I trace anomalies across departmental boundaries and tech stacks until the root cause is solved. I don't build temporary fixes—I build scalable, automated pipelines that demystify complex data and turn it into predictable business value.
 
 * 🌍  I'm based in Germany
 * ✉️  You can reach me at [birgit.bartenschlager@web.de](mailto:birgit.bartenschlager@web.de)
-* 🤖  I'm currently learning all about Supevised and Unsupervised Machine Learning
 * 🤝  I'm open to collaborating on Machine Learning projects
   
 [![Github Follow](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/birgit2704)
