@@ -1,5 +1,5 @@
 # Hi 👋 I am Birgit
-## Data Analyst and aspiring Machine Learning Expert
+## Data Analyst / Software Developer
 "Simplicity is the ultimate sophistication." <br><br> 
 I am a software engineer and data professional who thrives where systems break and data gets messy. My career began in enterprise operations, giving me a deep understanding of organizational business logic, which I now supercharge with rigorous software architecture and mathematical modeling. I am the person who doesn't give up; I trace anomalies across departmental boundaries and tech stacks until the root cause is solved. I don't build temporary fixes—I build scalable, automated pipelines that demystify complex data and turn it into predictable business value.
 
@@ -15,33 +15,33 @@ I am a software engineer and data professional who thrives where systems break a
 <p align="left">
 
 
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/fastapi/fastapi-original-wordmark.svg" width="50" height="50" alt="FastApi" /></a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50" alt="Jupyter" /></a>
-<a href="https://www.kaggle.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/kaggle/kaggle-original-wordmark.svg" width="50" height="50" alt="Kaggle" /></a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/kotlin/kotlin-original.svg" width="38" height="38" alt="Kotlin" /></a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/matplotlib/matplotlib-original-wordmark.svg" width="50" height="50" alt="Matplotlib" /></a>
-<a href="https://www.mysql.com/de/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mysql/mysql-original-wordmark.svg" width="80" height="80" alt="MySql" /></a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/numpy/numpy-original.svg" width="36" height="36" alt="Numpy" /></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/pandas/pandas-original-wordmark.svg" width="50" height="50" alt="Pandas" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50" alt="Postgres" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original-wordmark.svg" width="50" height="50" alt="Python" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/fastapi/fastapi-original-wordmark.svg" width="50" height="50" alt="FastApi" /></a><span>&ensp;</span>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50" alt="Jupyter" /></a><span>&ensp;</span>
+<a href="https://www.kaggle.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/kaggle/kaggle-original-wordmark.svg" width="50" height="50" alt="Kaggle" /></a><span>&ensp;</span>
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/kotlin/kotlin-original.svg" width="38" height="38" alt="Kotlin" /></a><span>&ensp;</span>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/matplotlib/matplotlib-original-wordmark.svg" width="50" height="50" alt="Matplotlib" /></a><span>&ensp;</span>
+<a href="https://www.mysql.com/de/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mysql/mysql-original-wordmark.svg" width="80" height="80" alt="MySql" /></a><span>&ensp;</span>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/numpy/numpy-original.svg" width="36" height="36" alt="Numpy" /></a><span>&ensp;</span>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/pandas/pandas-original-wordmark.svg" width="50" height="50" alt="Pandas" /></a><span>&ensp;</span>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50" alt="Postgres" /></a><span>&ensp;</span>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original-wordmark.svg" width="50" height="50" alt="Python" /></a><span>&ensp;</span>
 <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="ScikitLearn" /></a>
 
 
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="36" height="36" alt="DART" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="36" height="36" alt="FLUTTER" /></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="NEXT" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="REACT" /></a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TYPESCRIPT" /></a>
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JAVASCRIPT" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS" /></a> 
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="36" height="36" alt="SASS" /></a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="TAILWINDCSS" /></a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML" /></a> 
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36" height="36" alt="BOOTSTRAP" /></a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" height="36" alt="FIGMA" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="GIT" /></a>
-<a href="https://docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="DOCKER" /></a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="36" height="36" alt="DART" /></a><span>&ensp;</span>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="36" height="36" alt="FLUTTER" /></a><span>&ensp;</span>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="NEXT" /></a><span>&ensp;</span>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="REACT" /></a><span>&ensp;</span>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TYPESCRIPT" /></a><span>&ensp;</span>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JAVASCRIPT" /></a><span>&ensp;</span>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS" /></a><span>&ensp;</span>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="36" height="36" alt="SASS" /></a><span>&ensp;</span>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="TAILWINDCSS" /></a><span>&ensp;</span>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML" /></a><span>&ensp;</span>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36" height="36" alt="BOOTSTRAP" /></a><span>&ensp;</span>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" height="36" alt="FIGMA" /></a><span>&ensp;</span>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="GIT" /></a><span>&ensp;</span>
+<a href="https://docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="DOCKER" /></a><span>&ensp;</span>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postman/postman-original.svg" width="36" height="36" alt="Postman" /></a>  
 
 <br>
