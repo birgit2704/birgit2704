@@ -15,12 +15,12 @@ I am a software engineer and data professional who thrives where systems break a
 <p align="left">
 
 
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/fastapi/fastapi-original-wordmark.svg" width="50" height="50" alt="FastApi" /></a><span>&ensp;</span>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50" alt="Jupyter" /></a><span>&ensp;</span>
-<a href="https://www.kaggle.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/kaggle/kaggle-original-wordmark.svg" width="50" height="50" alt="Kaggle" /></a><span>&ensp;</span>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/kotlin/kotlin-original.svg" width="38" height="38" alt="Kotlin" /></a><span>&ensp;</span>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/matplotlib/matplotlib-original-wordmark.svg" width="50" height="50" alt="Matplotlib" /></a><span>&ensp;</span>
-<a href="https://www.mysql.com/de/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mysql/mysql-original-wordmark.svg" width="80" height="80" alt="MySql" /></a><span>&ensp;</span>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/fastapi/fastapi-original-wordmark.svg" width="50" height="50" alt="FastApi" /><span>&ensp;</span>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50" alt="Jupyter" /><span>&ensp;</span>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/kaggle/kaggle-original-wordmark.svg" width="50" height="50" alt="Kaggle" /><span>&ensp;</span>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/kotlin/kotlin-original.svg" width="38" height="38" alt="Kotlin" /><span>&ensp;</span>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/matplotlib/matplotlib-original-wordmark.svg" width="50" height="50" alt="Matplotlib" /><span>&ensp;</span>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mysql/mysql-original-wordmark.svg" width="80" height="80" alt="MySql" /><span>&ensp;</span>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/numpy/numpy-original.svg" width="36" height="36" alt="Numpy" /></a><span>&ensp;</span>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/pandas/pandas-original-wordmark.svg" width="50" height="50" alt="Pandas" /></a><span>&ensp;</span>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50" alt="Postgres" /></a><span>&ensp;</span>
