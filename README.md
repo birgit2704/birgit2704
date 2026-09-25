@@ -1,7 +1,7 @@
 # Hi 👋 I am Birgit
 ## Data Analyst / Software Developer
-"Simplicity is the ultimate sophistication." <br><br> 
-As a Data Analyst, I combine hands-on experience in application development and core business functions (Finance, Controlling, HR, Sales) with advanced analytical methods. I leverage Python, statistics, and machine learning to translate complex data structures into automated solutions and actionable foundations for strategic decisions.
+Torturing datasets until they confess <br><br> 
+Software developer by trade, data wrangler by necessity. I like clean math, robust pipelines, and figuring out why a model predicted something completely unhinged with 99.4% confidence. I don't believe in silver-bullet algorithms, quick hacks, or trusting any dataset on the first date. If it breaks, I will probably track it down out of pure, stubborn curiosity.
 
 * 🌍  I'm based in Germany
 * ✉️  You can reach me at [birgit.bartenschlager@web.de](mailto:birgit.bartenschlager@web.de)
